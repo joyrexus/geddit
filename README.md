@@ -1,4 +1,4 @@
-# geddit
+# reddit
 
 > Note: the code here is what you get by following Andrew Gerrand's [Getting Started With Go](https://talks.golang.org/2012/tutorial.slide#1) tutorial.
 
